@@ -109,3 +109,9 @@ body {
     margin-left: 10px;
     display: none;
 }
+
+footer {
+    position: relative;
+    text-align: center;
+    color: rgb(0, 186, 177);
+}
